@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Online_Sandha/static/css/main.7de6a533.css",
+    "main.js": "/Online_Sandha/static/js/main.fa730382.js",
+    "static/js/787.cdfe00ef.chunk.js": "/Online_Sandha/static/js/787.cdfe00ef.chunk.js",
+    "static/media/Beef.jpg": "/Online_Sandha/static/media/Beef.792f7248bcc4e14093cc.jpg",
+    "static/media/carrot.jpg": "/Online_Sandha/static/media/carrot.7b46b22f2a76f397d5b5.jpg",
+    "static/media/Crab.jpg": "/Online_Sandha/static/media/Crab.8f46b3e7e3c0ab4c2ad8.jpg",
+    "static/media/Watermellon.jpg": "/Online_Sandha/static/media/Watermellon.68913b26153367d45447.jpg",
+    "static/media/Grapes.jpg": "/Online_Sandha/static/media/Grapes.aa774a2f9afe0f9bf9c2.jpg",
+    "static/media/fishMarket.jpg": "/Online_Sandha/static/media/fishMarket.9dc377f0df56d296aa72.jpg",
+    "static/media/Fish.jpg": "/Online_Sandha/static/media/Fish.602d50a6fbc540855ef1.jpg",
+    "static/media/Mutton.jpg": "/Online_Sandha/static/media/Mutton.aead873793b4cd23cab4.jpg",
+    "static/media/potato.jpg": "/Online_Sandha/static/media/potato.ac9dbe828db157c99434.jpg",
+    "static/media/Orange.jpg": "/Online_Sandha/static/media/Orange.709ce513dff7fe050c60.jpg",
+    "static/media/ginger.jpg": "/Online_Sandha/static/media/ginger.2c44ace780392a541cc4.jpg",
+    "static/media/VegGrow.jpg": "/Online_Sandha/static/media/VegGrow.fc17f7ebd0d3cb5342e2.jpg",
+    "static/media/Prawn.jpg": "/Online_Sandha/static/media/Prawn.9f701090bee13c46424d.jpg",
+    "static/media/Banana.jpg": "/Online_Sandha/static/media/Banana.97bcbe754d72fe7fa7ee.jpg",
+    "static/media/box.jpg": "/Online_Sandha/static/media/box.9cab74948b39f2ed68e3.jpg",
+    "static/media/onion.jpg": "/Online_Sandha/static/media/onion.d62a873e358fd11cd59c.jpg",
+    "static/media/Mango.jpg": "/Online_Sandha/static/media/Mango.51f79208f60717c553be.jpg",
+    "static/media/Apple.jpg": "/Online_Sandha/static/media/Apple.03f5c4fef7a84ed280c3.jpg",
+    "static/media/deliviryman.jpg": "/Online_Sandha/static/media/deliviryman.6272f5c9de40120de08d.jpg",
+    "static/media/fruitbox.jpg": "/Online_Sandha/static/media/fruitbox.8582b29c610fef69da54.jpg",
+    "static/media/forming.jpg": "/Online_Sandha/static/media/forming.3dc10ec8300b3be663ad.jpg",
+    "static/media/Chicken.jpg": "/Online_Sandha/static/media/Chicken.bfbeb0adf3a43a1b0d03.jpg",
+    "static/media/beetroot.jpg": "/Online_Sandha/static/media/beetroot.4ddc1f9010d75963422f.jpg",
+    "static/media/tomato.jpg": "/Online_Sandha/static/media/tomato.a46df95d912236142040.jpg",
+    "static/media/deliviry.jpg": "/Online_Sandha/static/media/deliviry.c340bccc800b64def6cb.jpg",
+    "index.html": "/Online_Sandha/index.html",
+    "main.7de6a533.css.map": "/Online_Sandha/static/css/main.7de6a533.css.map",
+    "main.fa730382.js.map": "/Online_Sandha/static/js/main.fa730382.js.map",
+    "787.cdfe00ef.chunk.js.map": "/Online_Sandha/static/js/787.cdfe00ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7de6a533.css",
+    "static/js/main.fa730382.js"
+  ]
+}
