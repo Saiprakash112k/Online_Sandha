@@ -56,7 +56,7 @@ const HeaderComponent = () => {
 
                     <div className="add-Cart d-flex  w-50">
                     <div className="cat-box">
-    <button onClick={()=>{setStat(CommonFunction.stat(stat))}}>Catorey</button>
+    <button onClick={()=>{setStat(CommonFunction.stat(stat))}}>Category</button>
    {(stat==true)&& <div className="catorey">
    <ul className="heading-tags js">
                             <li><Link to="/">Home</Link></li>
