@@ -1,0 +1,56 @@
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.carosel img{
+    height:100%;
+    width: 100%;
+    object-fit: cover;
+}
+.carousel .slide .legend{
+    bottom: 60px;
+}
+.caroselBox{
+    width: 40%;
+    background-color: rgb(248, 243, 236);
+    border-radius: 20px;
+    padding: 25px;
+}
+.carousel .control-next.control-arrow:before{
+    border-left:8px solid #000;
+}
+.carousel .control-prev.control-arrow:before{
+    border-right:8px solid #000;
+}
+.Company{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Company-about{
+    box-sizing: border-box;
+    padding: 0px 0 0px 40px;
+    width: 50%;
+}
+.pos-rel{
+    position: relative;
+    z-index: 2;
+}
+.Company-about h2{
+    padding: 20px;
+        font-size: 50px;
+    font-weight: 100;
+color: rgb(44, 1, 1);
+}
+.about-para{
+    font-size: 22px;
+    text-align: left;
+    padding-top: 20px;
+    font-weight: 600;
+}

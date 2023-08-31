@@ -1,0 +1,59 @@
+ul li{
+  color: white;
+    padding: 10px;
+    margin: 0;
+}
+li i{
+    padding-right: 10px;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+.contact{
+    width: 50%;
+    padding: 20px;
+}
+.contact ul{
+    padding: 20px;
+}
+.footer{
+background-color: rgb(44, 1, 1);
+box-sizing: border-box;
+padding: 30px;
+margin: 50px 0;
+}
+footer{
+    border: 1px solid white;
+    border-radius: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+    position: relative;
+    
+}
+.location{
+    width: 50%;
+}
+footer h3{
+    padding: 30px;
+    font-size: 22px;
+    color: white;
+}
+.single-line{
+    position: absolute;
+   width: 2px;
+   background-color: white;
+   height: 140%;
+   left: 50%;
+   top: -40px;
+   transform: rotate(45deg);
+}
+footer p {
+    color: white;
+    font-size: 18px;
+    padding: 20px 30px;
+}
+.location >div{
+    max-width: 500px;
+}

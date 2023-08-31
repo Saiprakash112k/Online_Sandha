@@ -1,0 +1,171 @@
+
+{
+    "VegetablesData": [
+        {
+            "Image": "tomato",
+            "Head": "Tomato",
+            "Rate": "60",
+            "Quan": "1",
+            "discount": "5%",
+            "id": 1
+        },
+        {
+            "Image": "potato",
+            "Head": "Potato",
+            "Rate": "50",
+            "Quan": "1",
+            "discount": "7%",
+            "id": 2
+        },
+        {
+            "Image": "onion",
+            "Head": "Onion",
+            "Rate": "40",
+            "Quan": "1",
+            "discount": "10%",
+            "id": 3
+        },
+        {
+            "Image": "carrot",
+            "Head": "Carrot",
+            "Rate": "55",
+            "Quan": "1",
+            "discount": "4%",
+            "id": 4
+        },
+        {
+            "Image": "beetroot",
+            "Head": "Beetroot",
+            "Rate": "45",
+            "Quan": "1",
+            "discount": "8%",
+            "id": 5
+        },
+        {
+            "Image": "ginger",
+            "Head": "Ginger",
+            "Rate": "75",
+            "Quan": "1",
+            "discount": "7%",
+            "id": 6
+        }
+    ],
+    "FruitsData":[
+        {
+            "Image": "Apple",
+            "Head": "Apple",
+            "Rate": "120",
+            "Quan": "1",
+            "discount": "5%",
+            "id": 1
+        }, {
+            "Image": "Banana",
+            "Head": "Banana",
+            "Rate": "40",
+            "Quan": "1",
+            "discount": "20%",
+            "id": 2
+        },{
+            "Image": "Grapes",
+            "Head": "Grapes",
+            "Rate": "45",
+            "Quan": "1",
+            "discount": "8%",
+            "id": 3
+        },{
+            "Image": "Orange",
+            "Head": "Orange",
+            "Rate": "80",
+            "Quan": "1",
+            "discount": "5%",
+            "id": 4
+        },{
+            "Image": "Watermellon",
+            "Head": "Watermellon",
+            "Rate": "35",
+            "Quan": "1",
+            "discount": "15%",
+            "id": 5
+        },{
+            "Image": "Mango",
+            "Head": "Mango",
+            "Rate": "55",
+            "Quan": "1",
+            "discount": "10%",
+            "id": 6
+        }
+    ],
+    "MeatData":[
+        {
+            "Image": "Chicken",
+            "Head": "Chicken",
+            "Rate": "150",
+            "Quan": "1",
+            "discount": "5%",
+            "id": 1
+        },{
+            "Image": "Mutton",
+            "Head": "Muuton",
+            "Rate": "520",
+            "Quan": "1",
+            "discount": "5%",
+            "id": 2
+        },{
+            "Image": "Fish",
+            "Head": "Fish",
+            "Rate": "200",
+            "Quan": "1",
+            "discount": "5%",
+            "id": 3
+        },{
+            "Image": "Prawn",
+            "Head": "Prawn",
+            "Rate": "300",
+            "Quan": "1",
+            "discount": "5%",
+            "id": 4
+        },{
+            "Image": "Crab",
+            "Head": "Crab",
+            "Rate": "350",
+            "Quan": "1",
+            "discount": "5%",
+            "id": 5
+        },{
+            "Image": "Beef",
+            "Head": "Beef",
+            "Rate": "400",
+            "Quan": "1",
+            "discount": "5%",
+            "id": 6
+        }
+    ],
+    "CaroselImage":[
+        
+        {
+            "Image":"VegGrow",
+            "content":"When you buy from local farmers, you're directly supporting your community's economy, helping to create jobs and keep money within the region."
+        }
+        ,{
+            "Image":"forming",
+            "content":" Local farmers play a crucial role in supplying fresh and diverse food to their communities. They often cultivate crops that are well-suited to the local climate and soil conditions."
+        },
+        {
+            "Image":"deliviry",
+            "content":"Deliveries should be made on time and within the promised delivery window. Consistency in meeting delivery expectations is essential for building trust with customers"
+        },
+        {
+            "Image":"box",
+            "content":"Choose packaging materials that match the fragility, size, and weight of the item being shipped.Common materials include corrugated cardboard boxes, bubble wrap, packing peanuts, foam inserts, and padded envelopes."
+        },
+        {
+            "Image":"fruitbox",
+            "content":"Use waterproof packaging or consider additional protective layers if items are susceptible to moisture"
+        },
+        {
+            "Image":"fishMarket",
+            "content":"The fishing industry is a source of livelihood for millions of people in India, particularly in coastal communities.It contributes significantly to the country's economy through exports, employment, and local consumption."
+        }
+        
+    ]
+}
