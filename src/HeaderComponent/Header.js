@@ -59,10 +59,10 @@ const HeaderComponent = () => {
     <button onClick={()=>{setStat(CommonFunction.stat(stat))}}>Category</button>
    {(stat==true)&& <div className="catorey">
    <ul className="heading-tags js">
-                            <li><Link to="/">Home</Link></li>
-                            <li><Link to="/Vegetable">Vegetables</Link></li>
-                            <li><Link to='/Friuts'>Fruits</Link></li>
-                            <li><Link to='/Meat'>Meat</Link></li>
+                            <li onClick={()=>{setStat(CommonFunction.stat(stat))}}><Link to="/">Home</Link></li>
+                            <li onClick={()=>{setStat(CommonFunction.stat(stat))}}><Link to="/Vegetable">Vegetables</Link></li>
+                            <li onClick={()=>{setStat(CommonFunction.stat(stat))}}><Link to='/Friuts'>Fruits</Link></li>
+                            <li onClick={()=>{setStat(CommonFunction.stat(stat))}}><Link to='/Meat'>Meat</Link></li>
                         </ul>
     </div>}
 </div>
