@@ -112,6 +112,7 @@ a {
 
 .add-arrow {
     position: absolute;
+    z-index: 5;
     border-radius: 10px;
     background-color: aliceblue;
     padding: 10px;
@@ -167,6 +168,9 @@ a {
     border-radius: 5px;
     box-shadow: 2px 2px 6px #bfbaba;
     cursor: pointer;
+}
+.cat-box button:hover{
+    background-color:yellow !important ;
 }
 
 

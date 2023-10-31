@@ -16,7 +16,7 @@ export const AddCartFunc = createSlice({
             state.counter = state.StoreData.length;
 state.value = action.payload.value
             return state;
-            
+
         },
         remove : (state,action)=>{
             state ={...state,StoreData:[...action.payload]}

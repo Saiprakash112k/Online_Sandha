@@ -38,7 +38,7 @@ const HeaderComponent = () => {
         addcartValue.splice(a, 1)
         console.log(addcartValue)
         dispatch(remove(addcartValue))
-
+        
     }
 
     return (<>
